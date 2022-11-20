@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @ThiagoSousa81
-- 👀 Estou interessado no desenvolvimento da segurança da informação através da educação
-- 💞️ Procuro colaborar em projetos voltados a automação comercial e segurança da informação
+- Estou interessado no desenvolvimento da segurança da informação através da educação
+- Procuro colaborar em projetos voltados a automação comercial e segurança da informação
 - Visite meu site: https://thiagosousa81.wordpress.com/
 - 
 <!---
