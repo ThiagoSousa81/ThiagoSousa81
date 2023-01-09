@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Thiago Sousa
 - Estou interessado no desenvolvimento de aplicações voltadas a segurança de informações
-Procuro pessoas para colaborar em meus projetos de...
+- Procuro pessoas para colaborar em meus projetos de...
 - Automação comercial 
 - Segurança da informação
 Visite meu site: https://thiagosousa81.wordpress.com/
