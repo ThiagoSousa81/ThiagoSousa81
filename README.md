@@ -21,12 +21,19 @@ Estou interessado no desenvolvimento de aplicações voltadas a segurança de in
 - VS Code
 - Visual Studio Community
 - PowerShell ISE
-- CMD do Windows
+- PyDroid
+- IDLE Python
+- PyCharm
+- Godot
+- Scratch
+- Microsoft Small Basic
 - R Studio Cloud
 - Online GDB
 - AppInventor
 - Kodular Code
 - phpMyAdmin
+
+Isso sem falar do CMD do windows que não é uma IDE
 
 Para mais informações visite meu site: https://thiagosousa81.wordpress.com/
 <!---
