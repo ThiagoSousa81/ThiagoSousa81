@@ -22,6 +22,32 @@
   
 </details>
 
+<!--- Meus Framewoks --->
+                                        
+### Desenvolvo com os Frameworks...
+
+<details><summary>🧰</summary>
+  
+- .NET Framework
+- .NET Core
+- .NET - WPF
+- Bootstrap
+  
+### Pretendo aprender os Frameworks...
+- ASP.NET       
+- JOOQ <code>// prioridade</code>
+- Angular
+- TypeScript
+- Laravel
+- React Native
+- React JS
+- Vue.js
+- Flutter
+- Node.js
+- Unity Test Framework
+  
+</details>
+
 <!--- Minhas linguagens de programação --->
 
 ### Programo nas linguagens...
@@ -100,7 +126,7 @@
 - IDLE Python
 - PowerShell ISE (incluindo CMD)
 - PS Script Pad (Editor visual de formulários C# em PowerShell)
-- Microsoft Visual Studio Community (uso da mesma forma que VS Code, mas é bem melhor)
+- Microsoft Visual Studio Community
 - Microsoft Small Basic
 - Small Basic CLI (Desenvolvido por mim)
 - Godot (tive pouco tempo com ele, mas aprendi o essencial)
