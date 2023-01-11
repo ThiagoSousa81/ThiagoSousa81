@@ -85,7 +85,7 @@
 - Git-Hub Codespaces
 - VS Code
 - PyCharm
-- Scratch (Considere como algo que direciona para o aprendizado de Java Script)
+- Scratch (Considero um redirecionamernto ao aprendizado do Java Script)
 - Online GDB
 - Bootstrap
 - WordPress
