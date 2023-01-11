@@ -5,7 +5,7 @@
 ##### Participo de um programa de Iniciação Ciêntífica 🔬 da UFRB entitulado "Estudo e desenvolvimento de um indicador de pontos para marcação de curva de nível para terrenos inclinados.", relacionado a área de Engenharia Eletrônica 🦾 🦿 🔋
 
 ## Mais sobre mim...
-
+<code> Meu codinome é "James Scott" </code>
 ### Trabalho em projetos relacionados a...
 
 <details><summary>📝</summary>
