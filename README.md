@@ -14,26 +14,39 @@ Estou interessado no desenvolvimento de aplicações voltadas a segurança de in
 | Java | Pleno |
 | R | Júnior |
 | Java Script | Júnior |
+| XML | Júnior |
 | HTML | Pleno |
 | CSS | Pleno |
-### Tenho experiência com as IDEs...
+### Tenho experiência com as ferramentas...
+#### Para desenvolvimento web
 - Git-Hub Codespaces
 - VS Code
-- Visual Studio Community
-- PowerShell ISE
-- PyDroid
-- IDLE Python
 - PyCharm
-- Godot
 - Scratch
-- Microsoft Small Basic
-- R Studio Cloud
 - Online GDB
+- Bootstrap
+- WordPress
+- Nicepage
+#### Para desenvolvimento em desktop
+- IDLE Python
+- PowerShell ISE (incluindo CMD)
+- Microsoft Visual Studio Community
+- Microsoft Small Basic
+- Small Basic CLI (Desenvolvido por mim)
+- Godot
+#### Para desenvolvimento Android
+- PyDroid
 - AppInventor
 - Kodular Code
+#### Para ciência de dados
+- R Studio Cloud
 - phpMyAdmin
-
-Isso sem falar do CMD do windows que não é uma IDE
+- SQLite
+- Microsoft SQL Server
+- MySQL
+- brModelo
+#### Para desenvolvimento de algoritmos de encriptação
+- Encryption's Builder Studio (Desenvolvido por mim)
 
 Para mais informações visite meu site: https://thiagosousa81.wordpress.com/
 <!---
