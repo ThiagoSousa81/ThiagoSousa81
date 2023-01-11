@@ -38,7 +38,7 @@
 | Visual Basic | Júnior | Estudei por 3 meses mas parei | 
 | C++ | Aprendiz | 1 mês |
 | C | Aprendiz | 1 mês |
-| Fortran | Aprendiz | Estudei por 1 mês mas parei |
+| Fortran 😂 | Aprendiz | Estudei por 1 mês mas parei |
   
 </details>
 
