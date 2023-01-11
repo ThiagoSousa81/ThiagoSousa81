@@ -1,7 +1,7 @@
 # 👋 Olá, meu nome é Thiago Sousa 😏  
 ## 😉 Sou um desenvolvedor Full-Stack 😎
 ### 📚 Atualmente curso o 3º ano do Ensino Médio 📝 no CETEP Alberto Torres 🍎
-#### Estou interessado no desenvolvimento de aplicações onde a **Segurança 🔐 da Informação** é uma **🚨 PRIORIDADE 🚨**
+#### Estou interessado no desenvolvimento de aplicações onde a Segurança 🔐 da Informação é uma 🚨 PRIORIDADE 🚨
 ##### Participo de um programa de Iniciação Ciêntífica 🔬 da UFRB entitulado "Estudo e desenvolvimento de um indicador de pontos para marcação de curva de nível para terrenos inclinados."
 
 ## Mais sobre mim...
