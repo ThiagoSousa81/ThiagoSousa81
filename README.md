@@ -6,6 +6,9 @@
 
 ## Sobre mim...
 <code> Meu codinome é "James Scott" </code>
+
+<!--- Tipos de projetos trabalhados --->
+                                        
 ### Trabalho em projetos relacionados a...
 
 <details><summary>📝</summary>
@@ -18,7 +21,9 @@
 - 💰 Empreendedorismo digital 💰
   
 </details>
-  
+
+<!--- Minhas linguagens de programação --->
+
 ### Programo nas linguagens...
 
 <details><summary>😜</summary>
@@ -26,7 +31,7 @@
 > Realmente os emojis podem sistematizar qualquer coisa
   
 | Linguagem | Nível de aprendizado | Tempo de trabalho com a linguagem |
-| --------- | -------------------- | ------ |
+| --------- | ------------ | ------ |
 | 🏆 SQL | Sênior | 3 anos |
 | 🥇 C# | Sênior | 3 anos |
 | 🥈 Python | Pleno | 2 anos |
@@ -40,11 +45,24 @@
 | Visual Basic | Júnior | Estudei por 3 meses mas parei | 
 | C++ | Aprendiz | 1 mês |
 | C | Aprendiz | 1 mês |
-| Fortran 😂 | Aprendiz | Estudei por 1 mês mas parei |
+| Fortran 😂 | Aprendiz | Estudei por 1 mês mas parei (pretendo voltar a estudá-la. Uma companhia cairia bem 🤝) |
+
+> Outras linguagens que conheço (linguagens contextuais)...
+  
+| Linguagem | Nível de aprendizado | Tempo de trabalho com a linguagem |
+| --------- | -------------------- | ------ |
+| 🥇 Basic (Microsoft Small Basic) | Sênior | 3 anos |
+| 🥈 C# (PowerShell cmdlets) | Sênior | 2 anos |
+| 🥉 Bat (CMD) | Pleno | 2 anos |
+| Portugol (VisualG) | Júnior | 2 anos |
+| Git | Aprendiz | 1 ano |
+
   
 </details>
 
-### Tenho experiência com as ferramentas... 
+<!--- Experiência com Ferramentas --->
+
+### Tenho experiência com ferramentas... 
 <details><summary>🛠️</summary>
   
 #### Para desenvolvimento e análise de algoritmos de encriptação 📜 🔐 🔍
