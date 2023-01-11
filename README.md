@@ -23,7 +23,7 @@
 <details><summary>😜</summary>
   
 | Linguagem | Nível de aprendizado | Tempo de trabalho com a linguagem |
-| --------- | -------------------- | ------|
+| --------- | -------------------- | ------ |
 | SQL | Sênior | 3 anos |
 | C# | Sênior | 3 anos |
 | Python | Pleno | 2 anos |
@@ -34,6 +34,9 @@
 | XML | Júnior | 2 anos |
 | HTML | Pleno | 1 ano |
 | CSS | Pleno | 3 meses |
+| C++ | Aprendiz | 1 mês |
+| C | Aprendiz | 1 mês |
+| Fortran | Aprendiz | Estudei por 1 mês mas parei |
   
 </details>
 
