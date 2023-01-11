@@ -121,6 +121,7 @@ Obs.: Ainda não trabalho com aplicativos para celular pois tenho muito o que ap
 <details><summary>Ferramentas</summary>
   
 - Infinity Free
+- Google Drive (Hospedagem simples e fácil para iniciantes)
   
 </details>
 </details>
