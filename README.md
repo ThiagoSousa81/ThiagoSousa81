@@ -45,7 +45,7 @@ Estou interessado no desenvolvimento de aplicações onde a **Segurança 🔐 da
 - Microsoft Visual Studio Community (uso da mesma forma que VS Code, mas é bem melhor)
 - Microsoft Small Basic
 - Small Basic CLI (Desenvolvido por mim)
-- Godot (tive pouco tempo com ele, mas aprendi algumas coisas)
+- Godot (tive pouco tempo com ele, mas aprendi o essencial)
 #### Para desenvolvimento Android 📲
 - PyDroid
 - AppInventor
