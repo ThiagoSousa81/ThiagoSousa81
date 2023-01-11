@@ -1,24 +1,35 @@
-### 👋 Olá, meu nome é Thiago Sousa
-Estou interessado no desenvolvimento de aplicações voltadas a segurança de informações
-### Trabalho em projetos de...
-- Automação comercial 
-- Segurança da informação
-- Aprendizado de máquina
-### Entendo as linguagens...
-| Linguagem | Nível de aprendizado |
-| --------- | -------------------- |
-| SQL | Sênior |
-| C# | Sênior | 
-| Python | Pleno |
-| PHP | Pleno |
-| Java | Pleno |
-| R | Júnior |
-| Java Script | Júnior |
-| XML | Júnior |
-| HTML | Pleno |
-| CSS | Pleno |
-### Tenho experiência com as ferramentas...
-#### Para desenvolvimento web
+### 👋 Olá, meu nome é Thiago Sousa 😏  
+Sou um desenvolvedor Full-Stack 😎
+
+📚 Atualmente curso o 3º ano no CETEP Alberto Torres
+
+Estou interessado no desenvolvimento de aplicações onde a **Segurança 🔐 da Informação** é uma **🚨 PRIORIDADE 🚨**
+### Trabalho em projetos relacionados a...
+- ⚙️ Automação comercial ⚙️
+- 🔐 Segurança da informação 🔐
+- 🤖 Aprendizado de máquina 🤖
+- 🧐 Análise de sistemas 🧐
+- ✅ Qualidade de software ✅
+- 💰 Empreendedorismo digital 💰
+### Programo nas linguagens...
+| Linguagem | Nível de aprendizado | Tempo de trabalho com a linguagem |
+| --------- | -------------------- | ------|
+| SQL | Sênior | 3 anos |
+| C# | Sênior | 3 anos |
+| Python | Pleno | 2 anos |
+| PHP | Pleno | 2 meses |
+| Java | Pleno | 10 meses |
+| R | Júnior | 4 meses |
+| Java Script | Júnior | 2 meses |
+| XML | Júnior | 2 anos |
+| HTML | Pleno | 1 ano |
+| CSS | Pleno | 3 meses |
+### Tenho experiência com as ferramentas... 🛠️
+#### Para desenvolvimento e análise de algoritmos de encriptação 📜 🔐 🔍
+- Encryption's Builder Studio (desenvolvido por mim)
+#### Para desenvolvimento de Redes de Computadores 📡
+- Cisco Packet Tracer
+#### Para desenvolvimento web 🌐
 - Git-Hub Codespaces
 - VS Code
 - PyCharm
@@ -27,26 +38,30 @@ Estou interessado no desenvolvimento de aplicações voltadas a segurança de in
 - Bootstrap
 - WordPress
 - Nicepage
-#### Para desenvolvimento em desktop
+#### Para desenvolvimento em desktop 🖥️
 - IDLE Python
 - PowerShell ISE (incluindo CMD)
-- Microsoft Visual Studio Community
+- PS Script Pad (Editor visual de formulários C# em PowerShell)
+- Microsoft Visual Studio Community (uso da mesma forma que VS Code, mas é bem melhor)
 - Microsoft Small Basic
 - Small Basic CLI (Desenvolvido por mim)
-- Godot
-#### Para desenvolvimento Android
+- Godot (tive pouco tempo com ele, mas aprendi algumas coisas)
+#### Para desenvolvimento Android 📲
 - PyDroid
 - AppInventor
 - Kodular Code
-#### Para ciência de dados
+
+Obs.: Ainda não trabalho com aplicativos para celular pois tenho muito o que aprender nessa área!
+#### Para ciência de dados 🎲
 - R Studio Cloud
 - phpMyAdmin
 - SQLite
 - Microsoft SQL Server
 - MySQL
 - brModelo
-#### Para desenvolvimento de algoritmos de encriptação
-- Encryption's Builder Studio (Desenvolvido por mim)
+#### Para gestão de eficiente de e-mails de domínios 📩
+- Microsoft Outlook 2019
+- Gmail
 
 Para mais informações visite meu site: https://thiagosousa81.wordpress.com/
 <!---
