@@ -30,10 +30,11 @@
 | PHP | Pleno | 2 meses |
 | Java | Pleno | 10 meses |
 | R | Júnior | 4 meses |
-| Java Script | Júnior | 2 meses |
-| XML | Júnior | 2 anos |
 | HTML | Pleno | 1 ano |
 | CSS | Pleno | 3 meses |
+| Java Script | Júnior | 2 meses |
+| XML | Júnior | 2 anos |
+| Visual Basic | Júnior | Estudei por 3 meses mas parei | 
 | C++ | Aprendiz | 1 mês |
 | C | Aprendiz | 1 mês |
 | Fortran | Aprendiz | Estudei por 1 mês mas parei |
