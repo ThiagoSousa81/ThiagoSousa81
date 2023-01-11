@@ -23,6 +23,8 @@
 
 <details><summary>😜</summary>
   
+> Realmente os emojis podem sistematizar qualquer coisa
+  
 | Linguagem | Nível de aprendizado | Tempo de trabalho com a linguagem |
 | --------- | -------------------- | ------ |
 | 🏆 SQL | Sênior | 3 anos |
