@@ -25,10 +25,10 @@
   
 | Linguagem | Nível de aprendizado | Tempo de trabalho com a linguagem |
 | --------- | -------------------- | ------ |
-| SQL | Sênior | 3 anos |
-| C# | Sênior | 3 anos |
-| Python | Pleno | 2 anos |
-| PHP | Pleno | 2 meses |
+| SQL 🏆 | Sênior | 3 anos |
+| C# 🥇 | Sênior | 3 anos |
+| Python 🥈 | Pleno | 2 anos |
+| PHP 🥉 | Pleno | 2 meses |
 | Java | Pleno | 10 meses |
 | R | Júnior | 4 meses |
 | HTML | Pleno | 1 ano |
