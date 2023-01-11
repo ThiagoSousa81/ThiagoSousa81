@@ -45,7 +45,7 @@
 | Visual Basic | Júnior | Estudei por 3 meses mas parei | 
 | C++ | Aprendiz | 1 mês |
 | C | Aprendiz | 1 mês |
-| Fortran 😂 | Aprendiz | Estudei por 1 mês mas parei (voltarei a estudá-la. Uma companhia cairia bem 🤝) |
+| Fortran (😅 gosto de antiguidades) | Aprendiz | Estudei por 1 mês mas parei (voltarei a estudá-la. Uma companhia cairia bem 🤝) |
 
 > Outras linguagens que conheço (linguagens contextuais)...
   
