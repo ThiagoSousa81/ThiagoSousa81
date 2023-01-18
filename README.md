@@ -80,6 +80,7 @@
 | 🥇 Basic (Microsoft Small Basic) | Sênior | 3 anos |
 | 🥈 C# (PowerShell cmdlets) | Sênior | 2 anos |
 | 🥉 Bat (CMD) | Pleno | 2 anos |
+| Minecraft Cheats | Pleno | 2 anos |
 | Portugol (VisualG) | Júnior | 2 anos |
 | Git | Aprendiz | 1 ano |
 
