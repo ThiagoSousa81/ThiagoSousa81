@@ -185,10 +185,11 @@ Obs.: Ainda não trabalho com aplicativos para celular pois tenho muito o que ap
 </details>
 </details>
 
-Para mais informações visite meu site: https://thiagosousa81.wordpress.com/
+
 
 </details>
-  
+
+### Para mais informações visite meu site: https://thiagosousa81.wordpress.com/  
 <!---
 ThiagoSousa81/ThiagoSousa81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
