@@ -12,7 +12,7 @@
 
 ## Sobre mim...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&theme=chartreuse-dark)
 
 <!--- Tipos de projetos trabalhados --->
 
