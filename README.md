@@ -5,7 +5,8 @@
 ##### Participo de um programa de Iniciação Ciêntífica 🔬 da UFRB entitulado "Estudo e desenvolvimento de um indicador de pontos para marcação de curva de nível para terrenos inclinados.", relacionado a área de Engenharia Eletrônica 🦾 🦿 🔋
 
 ## Sobre mim...
-<code> Meu codinome é "James Scott" </code>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&theme=transparent)
 
 <!--- Tipos de projetos trabalhados --->
                                         
@@ -154,6 +155,7 @@ Obs.: Ainda não trabalho com aplicativos para celular pois tenho muito o que ap
 - Microsoft SQL Server
 - MySQL
 - brModelo
+- Microsoft Access
   
 </details>
 
