@@ -10,14 +10,19 @@
   
 </details>
 
-## Sobre mim...
+# Sobre mim...
 
-| [Thiago Sousa](https://github.com/ThiagoSousa81/) no Git-Hub... |
-| --- |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact) |
-| ![GitHub langs](https://github-readme-stats.vercel.app/api/top-langs?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact) |
-| ![Github contribuinte](https://github-readme-streak-stats.herokuapp.com/?user=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact) |
-| ![trophy](https://github-profile-trophy.vercel.app/?username=thiagosousa81&theme=matrix&row=2&column=3) |
+## Estatísticas do Git-Hub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact)
+
+## Linguagens predominantes no repositório
+![GitHub langs](https://github-readme-stats.vercel.app/api/top-langs?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact)
+
+## Status de contribuíções
+![Github contribuinte](https://github-readme-streak-stats.herokuapp.com/?user=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact)
+
+## Troféus
+![trophy](https://github-profile-trophy.vercel.app/?username=thiagosousa81&theme=matrix&row=2&column=3)
 
 <!--- Tipos de projetos trabalhados --->
 
