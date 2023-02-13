@@ -22,7 +22,9 @@
 ![Github contribuinte](https://github-readme-streak-stats.herokuapp.com/?user=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact)
 
 ## Troféus
-![trophy](https://github-profile-trophy.vercel.app/?username=thiagosousa81&theme=matrix&row=2&column=3)
+![trophy](https://github-profile-trophy.vercel.app/?username=thiagosousa81&theme=matrix) 
+
+<!--- &row=2&column=3' --->
 
 <!--- Tipos de projetos trabalhados --->
 
