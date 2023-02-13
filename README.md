@@ -12,7 +12,12 @@
 
 ## Sobre mim...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&theme=chartreuse-dark)
+| [Thiago Sousa](https://github.com/ThiagoSousa81/) no Git-Hub... |
+| --- |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact) |
+| ![GitHub langs](https://github-readme-stats.vercel.app/api/top-langs?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact) |
+| ![Github contribuinte](https://github-readme-streak-stats.herokuapp.com/?user=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact) |
+
 
 <!--- Tipos de projetos trabalhados --->
 
