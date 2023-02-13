@@ -6,7 +6,7 @@
   
 #### Estou interessado no desenvolvimento de aplicações onde a <b>Segurança 🔐 da Informação</b> é uma <b>🚨 PRIORIDADE 🚨</b> 
   
-##### Participo de um programa de Iniciação Ciêntífica 🔬 da UFRB entitulado "Estudo e desenvolvimento de um indicador de pontos para marcação de curva de nível para terrenos inclinados.", relacionado a área de Engenharia Eletrônica 🦾 🦿 🔋
+##### Participo de um programa de Iniciação Ciêntífica 🔬 da [UFRB](https://github.com/ufrb) entitulado "Estudo e desenvolvimento de um indicador de pontos para marcação de curva de nível para terrenos inclinados.", relacionado a área de Engenharia Eletrônica 🦾 🦿 🔋
   
 </details>
 
