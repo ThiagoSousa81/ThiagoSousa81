@@ -12,10 +12,9 @@
 
 # Sobre mim...
 
-## Estatísticas do Git-Hub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact)
 
-## Linguagens predominantes no repositório
+## Linguagens predominantes neste repositório
 ![GitHub langs](https://github-readme-stats.vercel.app/api/top-langs?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact)
 
 ## Status de contribuíções
