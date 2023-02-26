@@ -106,7 +106,9 @@
 | Portugol (VisualG) | Júnior | 2 anos |
 | Git | Aprendiz | 1 ano |
 
-  
+> **OBS.: Linguagens atualizadas em Jan/2023**
+
+
 </details>
 
 <!--- Experiência com Ferramentas --->
