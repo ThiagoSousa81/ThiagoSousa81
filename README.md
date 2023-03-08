@@ -11,6 +11,8 @@
   
 </details>
 
+![snake gif](https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake.svg)
+
 # Sobre mim...
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&PAT_1=thiagosousa81&count_private=true&include_all_pull-requests=true)
