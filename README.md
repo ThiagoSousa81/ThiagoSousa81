@@ -17,11 +17,18 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&PAT_1=thiagosousa81&count_private=true&include_all_pull-requests=true)
 
-## Linguagens predominantes neste repositório
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoSousa81&theme=chartreuse_dark)
+
+## Linguagens predominantes 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiagoSousa81&theme=chartreuse_dark)
 ![GitHub langs](https://github-readme-stats.vercel.app/api/top-langs?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&PAT_1=thiagosousa81)
+<!--[](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiagoSousa81&theme=chartreuse_dark)-->
 
 ## Status de contribuíções
 ![Github contribuinte](https://github-readme-streak-stats.herokuapp.com/?user=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&PAT_1=thiagosousa81)
+
+<!--![...](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiagoSousa81&theme=chartreuse_dark&utcOffset=-3)-->
 
 ## Troféus
 ![trophy](https://github-profile-trophy.vercel.app/?username=thiagosousa81&theme=matrix) 
