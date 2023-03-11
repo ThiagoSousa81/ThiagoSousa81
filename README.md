@@ -1,6 +1,7 @@
-# 👋 Olá, meu nome é Thiago Sousa 😏👍
+<h1 align="center"> 👋 Olá, meu nome é Thiago Sousa 😏👍</h1>
 
-## 😉 Sou um desenvolvedor Full-Stack 😎
+<h2 align="center"> 😉 Sou um desenvolvedor Full-Stack 😎 </h2>
+
 <details>
   
 ### 📚 Atualmente curso o 3º ano do Ensino Médio 📝 no CETEP Alberto Torres 🍎
@@ -14,6 +15,10 @@
 ![snake gif](https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake.svg)
 
 # Sobre mim...
+<div align="center"> 
+<h2 >Visualizações :heart:</h2>
+<img src="https://profile-counter.glitch.me/ThiagoSousa81/count.svg">  
+</div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&PAT_1=thiagosousa81&count_private=true&include_all_pull-requests=true)
 
@@ -21,8 +26,8 @@
 
 ## Linguagens predominantes 
 
+![GitHub langs](https://github-readme-stats.vercel.app/api/top-langs?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&PAT_1=thiagosousa81)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiagoSousa81&theme=chartreuse_dark)
-![GitHub langs](https://github-readme-stats.vercel.app/api/top-langs?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&PAT_1=thiagosousa81)
 <!--[](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiagoSousa81&theme=chartreuse_dark)-->
 
 ## Status de contribuíções
