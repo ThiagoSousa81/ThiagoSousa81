@@ -16,7 +16,7 @@
 
 # Sobre mim...
 <div align="center"> 
-<h2 >Visualizações :heart:<br>
+<h2 >Visualizações :heart:<br><br>
 <img src="https://profile-counter.glitch.me/ThiagoSousa81/count.svg"> </h2> 
 </div>
 
@@ -225,6 +225,10 @@ Obs.: Ainda não trabalho com aplicativos para celular pois tenho muito o que ap
   <a href = "mailto:thiagosousa81@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-sousa-4a7a53257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </div>
+    
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 <!---
 ThiagoSousa81/ThiagoSousa81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
