@@ -16,8 +16,8 @@
 
 # Sobre mim...
 <div align="center"> 
-<h2 >Visualizações :heart:</h2>
-<img src="https://profile-counter.glitch.me/ThiagoSousa81/count.svg">  
+<h2 >Visualizações :heart:<br>
+<img src="https://profile-counter.glitch.me/ThiagoSousa81/count.svg"> </h2> 
 </div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&PAT_1=thiagosousa81&count_private=true&include_all_pull-requests=true)
