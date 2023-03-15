@@ -12,7 +12,7 @@
   
 </details>
 
-![snake gif](https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake.svg)
+[![snake gif](https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake.svg)](https://github.com/ThiagoSousa81?from=2023-03-01&to=2023-03-15&year_list=1)
 
 # Sobre mim...
 <div align="center"> 
