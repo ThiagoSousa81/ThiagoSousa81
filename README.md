@@ -20,14 +20,14 @@
 <img src="https://profile-counter.glitch.me/ThiagoSousa81/count.svg"> </h2> 
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&PAT_1=thiagosousa81&count_private=true&include_all_pull-requests=true)
+<!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&count_private=true&include_all_pull-requests=true&PAT_1=ThiagoSousa81)--->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoSousa81&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoSousa81&theme=chartreuse_dark&PAT_1=thiagosousa81)
 
 ## Linguagens predominantes 
 
-![GitHub langs](https://github-readme-stats.vercel.app/api/top-langs?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&PAT_1=thiagosousa81)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiagoSousa81&theme=chartreuse_dark)
+<!--![GitHub langs](https://github-readme-stats.vercel.app/api/top-langs?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&PAT_1=thiagosousa81)-->
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiagoSousa81&theme=chartreuse_dark&PAT_1=thiagosousa81)
 <!--[](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiagoSousa81&theme=chartreuse_dark)-->
 
 ## Status de contribuíções
