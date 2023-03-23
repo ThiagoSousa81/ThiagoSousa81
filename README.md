@@ -14,10 +14,16 @@
 <!--
 [![snake gif](https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake.svg)](https://github.com/ThiagoSousa81?from=2023-03-01&to=2023-03-15&year_list=1)
 -->
+
+
+  
 <div align=center><img src="https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake.svg" alt"Contribuition's Snake" width="90%"></div>
 
-
-<div align=center><img src="./profile-3d-contrib/profile-night-green.svg" alt="" width="760px"></div>
+<details>
+  <summary><h2 align=center>Gráfico de Contribuíções</h2></summary>
+<div align=center><img src="./profile-3d-contrib/profile-night-green.svg" alt="" width="90%"></div>
+  
+</details>
 
 # Sobre mim...
 <div align="center"> 
