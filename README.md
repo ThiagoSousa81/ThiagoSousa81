@@ -11,8 +11,13 @@
 ##### Participo de um programa de Iniciação Ciêntífica 🔬 da [UFRB](https://github.com/ufrb) entitulado "Estudo e desenvolvimento de um indicador de pontos para marcação de curva de nível para terrenos inclinados.", relacionado a área de Engenharia Eletrônica 🦾 🦿 🔋
   
 </details>
-
+<!--
 [![snake gif](https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake.svg)](https://github.com/ThiagoSousa81?from=2023-03-01&to=2023-03-15&year_list=1)
+-->
+<div align=center><img src="https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake.svg" alt"Contribuition's Snake" width="90%"></div>
+
+
+<div align=center><img src="./profile-3d-contrib/profile-night-green.svg" alt="" width="760px"></div>
 
 # Sobre mim...
 <div align="center"> 
