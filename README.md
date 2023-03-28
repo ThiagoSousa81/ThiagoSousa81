@@ -1,6 +1,6 @@
-<h1 align="center"> 👋 Olá, meu nome é Thiago Sousa 😏👍</h1>
+<h1 align="center"> 👋 Olá, meu nome é Thiago Sousa 👍</h1>
 
-<h2 align="center"> 😉 Sou um desenvolvedor Full-Stack 😎 </h2>
+<h2 align="center"> 😎 Sou um desenvolvedor Full-Stack 😎 </h2>
 
 <details>
   
