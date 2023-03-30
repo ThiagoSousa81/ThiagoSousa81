@@ -8,7 +8,7 @@
   
 ### 📚 Atualmente curso o 3º ano do Ensino Médio 📝 no CETEP Alberto Torres 🍎
   
-#### Por ser interessado no desenvolvimento de aplicações onde a <b>Segurança 🔐 da Informação</b> é uma <b>🚨 PRIORIDADE 🚨</b>, criei a startup [<b>EBS Security Systems</b>](https://github.com/EBS-Security-Systems)
+#### Por ser interessado no desenvolvimento de aplicações onde a <b>Segurança 🔐 da Informação</b> é uma <b>🚨 PRIORIDADE 🚨</b>, estou desenvolvendo o projeto [<b>EBS Security Systems</b>](https://github.com/EBS-Security-Systems)
   
 ##### Participo de um programa de Iniciação Ciêntífica 🔬 da [UFRB](https://github.com/ufrb) entitulado "Estudo e desenvolvimento de um indicador de pontos para marcação de curva de nível para terrenos inclinados.", relacionado a área de Engenharia Eletrônica 🦾 🦿 🔋
   
