@@ -35,7 +35,7 @@
 
 |  |  |
 | --- | --- |
-| <h3 align="center">Uma startup intensivamente focada no desenvolvimento de software seguro. <br><a href="https://github.com/EBS-Security-Systems/#readme" target="_blank">Git-Hub :octocat:</a></h3> | <a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><p align="center"><img src="/image.png" alt="Logo EBS"  width="40%" ></p></a> |
+| <h3 align="center">Uma startup intensivamente focada no desenvolvimento de software seguro. <br><a href="https://github.com/EBS-Security-Systems/#readme" target="_blank">Git-Hub :octocat:</a></h3> | <a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><p align="center"><img src="/image.png" alt="EBS Security Systems"  width="40%" ></p></a> |
 
  
  
