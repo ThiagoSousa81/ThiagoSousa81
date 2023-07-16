@@ -23,19 +23,21 @@
 
 
   
-<div align=center><img src="https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake.svg" alt"Contribuition's Snake" width="90%"></div>
+<!---<div align=center><img src="https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake.svg" alt"Contribuition's Snake" width="90%"></div>--->
 
-<details>
-  <summary><h2 align=center>Gráfico de Contribuíções</h2></summary>
+
+<h2 align=center>Gráfico de Contribuíções</h2>
+
 <div align=center><img src="./profile-3d-contrib/profile-night-green.svg" alt="" width="90%"></div>
-  
-</details>
+<!---<details>
+  <summary></summary>
+</details>--->
 
 <h1 align="center">Conheça a <a href="https://ebs-systems.epizy.com/" target="_blank">Encryption's Builder Studio - Security Systems</a></h1>
 
 |  |  |
 | --- | --- |
-| <h3 align="center">Uma startup intensivamente focada no desenvolvimento de software seguro. <br><a href="https://github.com/EBS-Security-Systems/#readme" target="_blank">Git-Hub :octocat:</a> <a href="https://api-ebs-web.epizy.com/" target="_blank"><img src="https://img.shields.io/badge/ENTRE PARA O PROJETO-nocolor?style=flat" style="height: 30px"/></a></h3>  | <a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><p align="center"><img src="/image.png" alt="EBS Security Systems"  width="40%" ></p></a> |
+| <h3 align="center">Uma startup intensivamente focada no desenvolvimento de software seguro. <br><a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%237700FF?&logo=github&logoColor=white" target="_blank" style="height: 30px"></a>  <a href="https://api-ebs-web.epizy.com/" target="_blank"><img src="https://img.shields.io/badge/ENTRE PARA O PROJETO-nocolor?style=flat" style="height: 30px"/></a></h3>  | <a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><p align="center"><img src="/image.png" alt="EBS Security Systems"  width="40%" ></p></a> |
 
  
  
@@ -74,7 +76,7 @@
 <a href="https://github.com/AGRO-CETEP" target="_blank"><img src="https://img.shields.io/badge/AGRO%20CETEP-gold?style=flat" style="height: 30px"/></a>  <a href="https://github.com/EBS-Security-Systems" target="_blank"><img src="https://img.shields.io/badge/EBS Security Systems-nocolor?style=flat" style="height: 30px"/></a>  <a href="https://github.com/Fenix-Line" target="_blank"><img src="https://img.shields.io/badge/Fenix Line Innovation-purple?style=flat" style="height: 30px"/></a>  <a href="https://github.com/NiltonSilva10/PIBIC-EM" target="_blank"><img src="https://img.shields.io/badge/PIBIC EM UFRB-white?style=flat" style="height: 30px"/></a> 
 </div>
 
-
+<!--
 ## Área técnica...
 <details><summary>Clique para visualizar</summary>
 
@@ -91,7 +93,7 @@
   
 </details>
 
-<!--- Meus Framewoks --->
+<!--- Meus Framewoks 
                                         
 ### Desenvolvo com os Frameworks...
 
@@ -117,7 +119,7 @@
   
 </details>
 
-<!--- Minhas linguagens de programação --->
+<!--- Minhas linguagens de programação 
 
 ### Programo nas linguagens...
 
@@ -158,7 +160,7 @@
 
 </details>
 
-<!--- Experiência com Ferramentas --->
+<!--- Experiência com Ferramentas 
 
 ### Tenho experiência com ferramentas... 
 <details><summary>🛠️</summary>
@@ -247,7 +249,7 @@ Obs.: Ainda não trabalho com aplicativos para celular pois tenho muito o que ap
 </details>
 
 
-</details>
+</details>-->
 
 ### Para mais informações visite meu site: https://thiagosousa81.wordpress.com/  
 > Última atualização: Jan/2023
