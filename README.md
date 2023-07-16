@@ -252,7 +252,7 @@ Obs.: Ainda não trabalho com aplicativos para celular pois tenho muito o que ap
 </details>-->
 
 ### Para mais informações visite meu site: https://thiagosousa81.wordpress.com/  
-> Última atualização: Jan/2023
+> Última atualização: Julho/2023
 
 <div> 
  
