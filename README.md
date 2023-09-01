@@ -1,7 +1,5 @@
 <!--<h1 align="center"> 👋 Olá, meu nome é Thiago Sousa 👍</h1>
-
 <h2 align="center"> 😉 Sou um desenvolvedor Full-Stack 😎 </h2>-->
-
 <div align=center>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=600&size=43&duration=3000&pause=1000&color=0A9529&center=true&vCenter=true&width=750&height=175&lines=Meu+nome+%C3%A9+Thiago+Sousa;Sou+um+Dev+Full-Stack;CEO+do+EBS+Security+Systems;Participo+do+PIBIC-EM+na+UFRB;Descri%C3%A7%C3%A3o+completa+abaixo+%F0%9F%98%89)](https://git.io/typing-svg)
