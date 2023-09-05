@@ -14,7 +14,7 @@
   
 #### Por ser interessado no desenvolvimento de aplicações onde a <b>Segurança 🔐 da Informação</b> é uma <b>🚨 PRIORIDADE 🚨</b>, estou desenvolvendo o projeto [<b>EBS Security Systems</b>](https://github.com/EBS-Security-Systems)
   
-##### Participo de um programa de Iniciação Ciêntífica 🔬 da [UFRB](https://github.com/ufrb) entitulado "Estudo e desenvolvimento de um indicador de pontos para marcação de curva de nível para terrenos inclinados.", relacionado a área de Engenharia Eletrônica 🦾 🦿 🔋
+##### Participei de um programa de Iniciação Ciêntífica 🔬 da [UFRB](https://github.com/ufrb) entitulado "Estudo e desenvolvimento de um indicador de pontos para marcação de curva de nível para terrenos inclinados.", relacionado a área de Engenharia Eletrônica 🦾 🦿 🔋
   
 </details>
 <!--
@@ -43,6 +43,7 @@
  
  
 # Sobre mim...
+<h3 align="center">Atualmente estou disponível para trabalhar em novos projetos. de Programação em geral, Automação, Infraestrutura de Redes, Inteligência Artificial e Planejamento de Sistemas</h3>
 <div align="center"> 
 <h2 >Visualizações :heart:<br><br>
 <img src="https://profile-counter.glitch.me/ThiagoSousa81/count.svg"> </h2> 
@@ -57,6 +58,7 @@
 <!--![GitHub langs](https://github-readme-stats.vercel.app/api/top-langs?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&PAT_1=thiagosousa81)-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiagoSousa81&theme=chartreuse_dark&PAT_1=thiagosousa81)
 <!--[](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiagoSousa81&theme=chartreuse_dark)-->
+<p>Obs.: Meu Git-Hub tem essas linguagens predominantes em <i>commits</i> mas também programo em outras linguagens, como C#, Java, R, Fortran e JavaScript.</p>
 
 ## Status de contribuíções
 ![Github contribuinte](https://github-readme-streak-stats.herokuapp.com/?user=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&PAT_1=thiagosousa81)
