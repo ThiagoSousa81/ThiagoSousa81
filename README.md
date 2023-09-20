@@ -61,7 +61,7 @@
 <p>Obs.: Meu Git-Hub tem essas linguagens predominantes em <i>commits</i> mas também programo em outras linguagens, como C#, Java, R, Fortran e JavaScript.</p>
 
 ## Status de contribuíções
-![Github contribuinte](https://github-readme-streak-stats.herokuapp.com/?user=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&PAT_1=thiagosousa81)
+![Github contribuinte](https://github-readme-streak-stats.herokuapp.com/?user=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&PAT_1=thiago_sousa81)
 
 <!--![...](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiagoSousa81&theme=chartreuse_dark&utcOffset=-3)-->
 
