@@ -46,7 +46,7 @@
 <h3 align="center">Atualmente estou disponível para trabalhar em novos projetos de <b>Programação em Geral, Automação, Infraestrutura de Redes, Inteligência Artificial, Planejamento e Desenvolvimento de Sistemas<br></b></h3>
 <div align="center"> 
 <h2 >Visualizações :heart:<br><br>
-<img src="https://profile-counter.glitch.me/ThiagoSousa81/count.svg"> </h2> 
+<img src="https://profile-counter.glitch.me/ThiagoSousa81/count.svg"></h2> 
 </div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&count_private=true&include_all_pull-requests=true&PAT_1=Jammes_Scoott)
