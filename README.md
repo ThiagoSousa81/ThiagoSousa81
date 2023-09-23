@@ -1,7 +1,7 @@
-<!--https://www.youtube.com/watch?v=GPGLOaDpKoI-->
+<!---https://www.youtube.com/watch?v=GPGLOaDpKoI--->
 
-<!--<h1 align="center"> 👋 Olá, meu nome é Thiago Sousa 👍</h1>
-<h2 align="center"> 😉 Sou um desenvolvedor Full-Stack 😎 </h2>-->
+<!---<h1 align="center"> 👋 Olá, meu nome é Thiago Sousa 👍</h1>
+<h2 align="center"> 😉 Sou um desenvolvedor Full-Stack 😎 </h2>--->
 
 <div align=center>
 
@@ -18,9 +18,8 @@
 ##### Participei de um programa de Iniciação Ciêntífica 🔬 da [UFRB](https://github.com/ufrb) entitulado "Estudo e desenvolvimento de um indicador de pontos para marcação de curva de nível para terrenos inclinados.", relacionado a área de Engenharia Eletrônica 🦾 🦿 🔋
   
 </details>
-<!--
-[![snake gif](https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake.svg)](https://github.com/ThiagoSousa81?from=2023-03-01&to=2023-03-15&year_list=1)
--->
+<!---
+[![snake gif](https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake.svg)](https://github.com/ThiagoSousa81?from=2023-03-01&to=2023-03-15&year_list=1)--->
 
 
   
