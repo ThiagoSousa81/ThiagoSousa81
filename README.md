@@ -21,10 +21,7 @@
 <!---
 [![snake gif](https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake.svg)](https://github.com/ThiagoSousa81?from=2023-03-01&to=2023-03-15&year_list=1)--->
 
-
-  
 <!---<div align=center><img src="https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake.svg" alt"Contribuition's Snake" width="90%"></div>--->
-
 
 <h2 align=center>Gráfico de Contribuíções</h2>
 
@@ -57,11 +54,11 @@
 
 <!--![GitHub langs](https://github-readme-stats.vercel.app/api/top-langs?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&PAT_1=thiagosousa81)-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiagoSousa81&theme=chartreuse_dark&PAT_1=thiagosousa81)
-<!--[](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiagoSousa81&theme=chartreuse_dark)-->
+<!--[](http.github.com/ThiagoSousa81.summary-cards.api/cards/repos-per-language?username=ThiagoSousa81&theme=chartreuse_dark)-->
 <p>Obs.: Meu Git-Hub tem essas linguagens predominantes em <i>commits</i> mas também programo em outras linguagens, como C#, Java, R, Fortran e JavaScript.</p>
 
 ## Status de contribuíções
-![Github contribuinte](https://github-readme-streak-stats.herokuapp.com/?user=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&PAT_1=thiago_sousa81)
+![Github contribuinte](https://github-readme-streak-stats.herokuapp.com/?user=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&PAT_1=thiagosousa81)
 
 <!--![...](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiagoSousa81&theme=chartreuse_dark&utcOffset=-3)-->
 
