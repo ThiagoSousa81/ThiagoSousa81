@@ -33,8 +33,8 @@
 <h1 align="center">Conheça a <a href="https://ebs-systems.epizy.com/" target="_blank">Encryption's Builder Studio - Security Systems</a></h1>
 
 |  |  |
-| --- | --- |
-| <h3 align="center">Uma startup intensivamente focada no desenvolvimento de software seguro. <br><br><a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%237700FF?&logo=github&logoColor=white" target="_blank" style="height: 30px"></a>  <a href="https://api-ebs-web.epizy.com/" target="_blank"><img src="https://img.shields.io/badge/ENTRE PARA O PROJETO-nocolor?style=flat" style="height: 30px"/></a></h3>  | <a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><p align="center"><img src="/image.png" alt="EBS Security Systems"  width="40%" ></p></a> |
+| :---: | :---: |
+| <h3>Uma startup intensivamente focada no desenvolvimento de software seguro. <br><br><a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%237700FF?&logo=github&logoColor=white" target="_blank" style="height: 30px"></a>  <a href="https://api-ebs-web.epizy.com/" target="_blank"><img src="https://img.shields.io/badge/ENTRE PARA O PROJETO-nocolor?style=flat" style="height: 30px"/></a></h3>  | <a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><p><img src="/image.png" alt="EBS Security Systems"  width="40%" ></p></a> |
 
  
  
