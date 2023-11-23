@@ -68,7 +68,10 @@
 <!--![...](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiagoSousa81&theme=chartreuse_dark&utcOffset=-3)-->
 
 ## Troféus
-[![trophy](https://github-profile-trophy.vercel.app/?username=thiagosousa81&theme=matrix) ](ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=thiagosousa81&theme=matrix)
+
+
+<!---(ryo-ma/github-profile-trophy)--->
 
 <!--- &row=2&column=3' --->
 
