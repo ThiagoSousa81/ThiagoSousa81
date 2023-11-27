@@ -111,6 +111,12 @@
 
 - <details> <summary><h3>PHP</h3></summary>
 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=ShopDBV&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/ShopDBV)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=Website-EBS&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/Website-EBS)
+
+  OBS.: Boa parte dos arquivos de projeto da EBS Systems são privados. O website é o único que ainda está público
+
   </details>
 
 </details>
