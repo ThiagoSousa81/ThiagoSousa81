@@ -78,6 +78,9 @@
 <!--- Tipos de projetos trabalhados --->
 
 <h2 align="center">Portifólio</h2>
+
+### Em construção...
+
 <details>
 
 - <details> <summary><h3>C#</h3></summary>
@@ -101,7 +104,9 @@
   </details>
 
 - <details> <summary><h3>JavaScript</h3></summary>
-
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=JavaScript-Senac&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://gthub.com/Thiagosousa81/JavaScript-Senac)
+  
   </details>
 
 - <details> <summary><h3>PHP</h3></summary>
