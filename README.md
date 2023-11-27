@@ -83,7 +83,7 @@
 - <details> <summary><h3>C#</h3></summary>
 
  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=EBS-Docs&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/EBS-Docs#ebs-docs)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Curso-Csharp&theme=matrix&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/EBS-Docs#ebs-docs)
 
   </details>
 
