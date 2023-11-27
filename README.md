@@ -77,6 +77,24 @@
 
 <!--- Tipos de projetos trabalhados --->
 
+<h2 align="center">Portifólio</h2>
+<details>
+
+- <details> <summary><h3>PowerShell</h3></summary>
+
+</details>
+
+- <details> <summary><h3>JavaScript</h3></summary>
+
+</details>
+
+- <details> <summary><h3>PHP</h3></summary>
+
+</details>
+
+</details>
+
+
 <h2 align=center>Projetos que participo</h2>
 
 <div align=center>
