@@ -83,6 +83,8 @@
 - <details> <summary><h3>C#</h3></summary>
 
  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=EBS-Docs&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/EBS-Docs#ebs-docs)
+
   </details>
 
 - <details> <summary><h3>PowerShell</h3></summary>
