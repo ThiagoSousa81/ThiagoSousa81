@@ -88,6 +88,8 @@
 
 - <details> <summary><h3>PowerShell</h3></summary>
 
+ 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=PowerShell-Scripts&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/PowerShell-Scripts)
   </details>
 
 - <details> <summary><h3>JavaScript</h3></summary>
