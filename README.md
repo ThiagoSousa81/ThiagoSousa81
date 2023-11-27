@@ -92,6 +92,14 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=PowerShell-Scripts&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/PowerShell-Scripts)
   </details>
 
+- <details> <summary><h3>Python</h3></summary>
+
+ 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Python&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Python)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=Training&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/Training)
+  </details>
+
 - <details> <summary><h3>JavaScript</h3></summary>
 
   </details>
