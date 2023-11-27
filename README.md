@@ -80,17 +80,21 @@
 <h2 align="center">Portifólio</h2>
 <details>
 
+- <details> <summary><h3>C#</h3></summary>
+
+  </details>
+
 - <details> <summary><h3>PowerShell</h3></summary>
 
-</details>
+  </details>
 
 - <details> <summary><h3>JavaScript</h3></summary>
 
-</details>
+  </details>
 
 - <details> <summary><h3>PHP</h3></summary>
 
-</details>
+  </details>
 
 </details>
 
