@@ -79,23 +79,23 @@
 
 <h2 align="center">Portifólio</h2>
 
-### Em construção...
+#### Em construção...
 
 <details>
 
-- <details> <summary><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="55" height="55"/></summary>
+- <details> <summary><h3>C#</h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="55" height="55"/></summary>
 
  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Curso-Csharp&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Curso-Csharp)
   </details>
 
-- <details> <summary><img src="https://cdn.iconscout.com/icon/free/png-256/powershell-3628993-3030218.png" alt="powershell" width="55" height="55"/></summary>
+- <details> <summary><h3>PowerShell</h3><img src="https://cdn.iconscout.com/icon/free/png-256/powershell-3628993-3030218.png" alt="powershell" width="55" height="55"/></summary>
 
  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=PowerShell-Scripts&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/PowerShell-Scripts)
   </details>
 
-- <details> <summary><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></summary>
+- <details> <summary><h3>Python</h3><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></summary>
 
  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Python&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Python)
@@ -103,13 +103,13 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=Training&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/Training)
   </details>
 
-- <details> <summary><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java-Script" width="55" height="55"/></summary>
+- <details> <summary><h3>JavaScript</h3><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java-Script" width="55" height="55"/></summary>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=JavaScript-Senac&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://gthub.com/Thiagosousa81/JavaScript-Senac)
   
   </details>
 
-- <details> <summary><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="55" height="55"/></summary>
+- <details> <summary> <h3>PHP</h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="55" height="55"/></summary>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=ShopDBV&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/ShopDBV)
 
