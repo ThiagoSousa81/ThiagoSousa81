@@ -79,7 +79,6 @@
 
 <h2 align="center">Portifólio</h2>
 
-#### Em construção...
 
 <details>
 
