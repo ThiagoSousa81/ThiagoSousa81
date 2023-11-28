@@ -104,7 +104,7 @@
 
 - <details> <summary><h3>JavaScript</h3><br><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java-Script" width="55" height="55"/></summary>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=JavaScript-Senac&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://gthub.com/Thiagosousa81/JavaScript-Senac)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=JavaScript-Senac&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/Thiagosousa81/JavaScript-Senac)
   
   </details>
 
