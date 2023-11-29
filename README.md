@@ -60,7 +60,7 @@
 <!--![GitHub langs](https://github-readme-stats.vercel.app/api/top-langs?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&PAT_1=thiagosousa81)-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiagoSousa81&theme=chartreuse_dark&PAT_1=thiagosousa81)
 <!--[](http.github.com/ThiagoSousa81.summary-cards.api/cards/repos-per-language?username=ThiagoSousa81&theme=chartreuse_dark)-->
-<p>Obs.: Meu Git-Hub tem essas linguagens predominantes em <i>commits</i> mas também programo em outras linguagens, como C#, Java, R, Fortran e JavaScript.</p>
+<p>Obs.: Meu Git-Hub tem essas linguagens predominantes em <i>commits</i> mas também programo em outras linguagens, como C#, Python, R, Fortran e JavaScript.</p>
 
 ## Status de contribuíções
 ![Github contribuinte](https://github-readme-streak-stats.herokuapp.com/?user=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&PAT_1=thiagosousa81)
