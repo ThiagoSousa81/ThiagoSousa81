@@ -100,6 +100,12 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Python&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Python)
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=Training&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/Training)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Python_Vercel&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Python_Vercel)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Flask_Vercel&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Flask_Vercel)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Django_Vercel&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Django_Vercel)
   </details>
 
 - <details> <summary><h3>JavaScript</h3><br><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java-Script" width="55" height="55"/></summary>
