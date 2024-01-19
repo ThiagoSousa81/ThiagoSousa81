@@ -86,6 +86,13 @@
 
  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Curso-Csharp&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Curso-Csharp)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Star-View-Design&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Star-View-Design)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Coletanea-2022&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Coletanea-2022)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Coletanea-Calebe24&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Coletanea-Calebe24)
+
   </details>
 
 - <details> <summary><h3>PowerShell</h3><br><img src="https://cdn.iconscout.com/icon/free/png-256/powershell-3628993-3030218.png" alt="powershell" width="55" height="55"/></summary>
