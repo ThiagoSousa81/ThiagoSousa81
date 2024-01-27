@@ -30,7 +30,7 @@
   <summary></summary>
 </details>--->
 
-<h1 align="center">Conheça a <a href="https://ebs-systems.epizy.com/" target="_blank">Encryption's Builder Studio - Security Systems</a></h1>
+<h1 align="center">Conheça a <a href="https://ebs-systems.epizy.com/" target="_blank">EBS Security Systems</a></h1>
 
 |  |  |
 | :---: | :---: |
