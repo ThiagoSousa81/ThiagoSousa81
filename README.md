@@ -5,17 +5,18 @@
 
 <div align=center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=600&size=43&duration=3000&pause=1000&color=0A9529&center=true&vCenter=true&width=750&height=175&lines=Meu+nome+%C3%A9+Thiago+Sousa;Sou+um+Dev+Full-Stack;Programo+sistemas+sob+medida;CEO+do+EBS+Security+Systems;Fiz+parte+do+PIBIC-EM+na+UFRB;Descri%C3%A7%C3%A3o+completa+abaixo+%F0%9F%98%89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=600&size=43&duration=3000&pause=1000&color=0A9529&center=true&vCenter=true&width=750&height=175&lines=Meu+nome+%C3%A9+Thiago+Sousa;Sou+um+Dev+Full-Stack;Programo+sistemas+sob+medida;CEO+do+EBS+Security+Systems;Fiz+parte+do+PIBIC-EM+na+UFRB;Estou+cursando+BCET-UFRB+e+GTI-FADBA;Descri%C3%A7%C3%A3o+completa+abaixo+%F0%9F%98%89)](https://git.io/typing-svg)
   
 </div>
 
 <details>
   
-### 📚 Atualmente curso o 3º ano do Ensino Médio 📝 no CETEP Alberto Torres 🍎
+### 📚 Cursando <b>Ciências Exatas e Tecnológicas</b> 🧮 na UFRB e <b>Gestão da Tecnologia da Informação</b>💻 na FADBA  
+### 👨‍💻 Técnico em Informática 📝 pelo CETEP Alberto Torres 🍎
   
 #### Por ser interessado no desenvolvimento de aplicações onde a <b>Segurança 🔐 da Informação</b> é uma <b>🚨 PRIORIDADE 🚨</b>, estou desenvolvendo o projeto [<b>EBS Security Systems</b>](https://github.com/EBS-Security-Systems)
   
-##### Participei de um programa de Iniciação Ciêntífica 🔬 da [UFRB](https://github.com/ufrb) entitulado "Estudo e desenvolvimento de um indicador de pontos para marcação de curva de nível para terrenos inclinados.", relacionado a área de Engenharia Eletrônica 🦾 🦿 🔋
+##### Participei de um programa de Iniciação Ciêntífica 🔬 da [UFRB](https://github.com/ufrb) intitulado "Estudo e desenvolvimento de um indicador de pontos para marcação de curva de nível para terrenos inclinados.", relacionado a área de Engenharia Eletrônica 🦾 🦿 🔋
   
 </details>
 <!---
