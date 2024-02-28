@@ -5,7 +5,7 @@
 
 <div align=center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=600&size=43&duration=3000&pause=1000&color=0A9529&center=true&vCenter=true&width=750&height=175&lines=Meu+nome+%C3%A9+Thiago+Sousa;Sou+um+Dev+Full-Stack;Programo+sistemas+sob+medida;CEO+do+EBS+Security+Systems;Fiz+parte+do+PIBIC-EM+na+UFRB;Cursando+BCET-UFRB;Cursando+GTI-FADBA;Descri%C3%A7%C3%A3o+completa+abaixo+%F0%9F%98%89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=600&size=43&duration=3000&pause=1000&color=0A9529&center=true&vCenter=true&width=750&height=175&lines=Meu+nome+%C3%A9+Thiago+Sousa;Sou+um+Dev+Full-Stack;Programo+sistemas+sob+medida;CEO+do+EBS+Security+Systems;Fiz+parte+do+PIBIC-EM+na+UFRB;Cursando+BCET+na+UFRB;Cursando+Gestão+de+TI+na+FADBA;Descri%C3%A7%C3%A3o+completa+abaixo+%F0%9F%98%89)](https://git.io/typing-svg)
   
 </div>
 
