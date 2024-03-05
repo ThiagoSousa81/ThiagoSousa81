@@ -11,8 +11,8 @@
 
 <details>
   
-### 📚 Cursando <b>Ciências Exatas e Tecnológicas</b> 🧮 na UFRB e <b>Gestão da Tecnologia da Informação</b>💻 na FADBA  
-### 👨‍💻 Técnico em Informática 📝 pelo CETEP Alberto Torres 🍎
+### 📚 Cursando <b>Ciências Exatas e Tecnológicas</b> 🧮 na UFRB, com terminalidade em Engenharia da Computação 💻
+### 👨‍💻 Técnico em Informática 📝🔧🪛 pelo CETEP Alberto Torres 🍎
   
 #### Por ser interessado no desenvolvimento de aplicações onde a <b>Segurança 🔐 da Informação</b> é uma <b>🚨 PRIORIDADE 🚨</b>, estou desenvolvendo o projeto [<b>EBS Security Systems</b>](https://github.com/EBS-Security-Systems)
   
