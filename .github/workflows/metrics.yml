@@ -66,7 +66,7 @@ jobs:
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved
-          plugin_leetcode_user: officialcodevoyage
+          plugin_leetcode_user: thiagosousa81
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
@@ -74,7 +74,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "📈 Update GitHub metrics [skip ci]"
-          branch: output  # Specify the branch where metrics are stored
+          branch: main  # Specify the branch where metrics are stored
           file_pattern: './metrics/**'  # Adjust the path based on where metrics are generated
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
