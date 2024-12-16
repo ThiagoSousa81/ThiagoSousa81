@@ -65,13 +65,15 @@
 
 ## Linguagens predominantes 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiagoSousa81&theme=chartreuse_dark&PAT_1=thiagosousa81)
+| Commits | Repositórios |
+| --- | --- |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiagoSousa81&theme=chartreuse_dark&PAT_1=thiagosousa81) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagosousa81&theme=chartreuse_dark) |
 
-<p>Obs.: Meu Git-Hub tem essas linguagens predominantes em <i>commits</i> mas como um Dev multiplataforma posso me adaptar tranquilamente a desenvolver sistemas sólidos e escalonáveis em qualquer tecnologia.</p>
+<p>Obs.: Meu Git-Hub tem essas linguagens predominantes mas como um Dev multiplataforma posso me adaptar tranquilamente a desenvolver sistemas sólidos e escalonáveis em qualquer tecnologia.</p>
 
 ## Status de contribuíções
 
-| Contribuíções | Produtividade |
+| Contribuíções | Produtividade média |
 | --- | --- |
 | ![Github contribuinte](https://github-readme-streak-stats.herokuapp.com/?user=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&PAT_1=thiagosousa81) | ![Produtividade_media](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiagoSousa81&theme=chartreuse_dark&utcOffset=-3) |
 
