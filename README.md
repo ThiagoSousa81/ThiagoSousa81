@@ -18,38 +18,38 @@
 
 <details>
   
-### 📚 Cursando <b>Ciências Exatas e Tecnológicas</b> 🧮 na UFRB, com terminalidade em Engenharia da Computação 💻
+### 📚 Cursando <b>Bacharelado em Ciências Exatas e Tecnológicas</b> 🧮 na UFRB, com terminalidade em Engenharia da Computação 💻
 ### 👨‍💻 Técnico em Informática 📝🔧🪛 pelo CETEP Alberto Torres 🍎
   
-#### Por ser interessado no desenvolvimento de aplicações onde a <b>Segurança 🔐 da Informação</b> é uma <b>🚨 PRIORIDADE 🚨</b>, estou desenvolvendo o projeto [<b>EBS Security Systems</b>](https://github.com/EBS-Security-Systems)
-  
-##### Participei de um programa de Iniciação Ciêntífica 🔬 da [UFRB](https://github.com/ufrb) intitulado "Estudo e desenvolvimento de um indicador de pontos para marcação de curva de nível para terrenos inclinados.", relacionado a área de Engenharia Eletrônica 🦾 🦿 🔋
+### Por ser interessado no desenvolvimento de aplicações onde a <b>Segurança 🔐 da Informação</b> é uma <b>🚨 PRIORIDADE 🚨</b>, comecei o projeto [<b>EBS Security Systems</b>](https://github.com/EBS-Security-Systems)
+
+### Sou Diretor de Vendas na [Recode Jr](https://github.com/recodejr), uma empresa júnior oficial de desenvolvimento de software na UFRB
+
+#### Participo ativamente do Comitê Público do [INSTITUTO DE DEFESA CIBERNÉTICA](https://idciber.org/)
+
+#### Estudando Sistemas Embarcados com um aprofundamento maior no [Embarcatech](https://embarcatech.cepedi.org.br/), promovido pelo CEPEDI, Softex e Governo Federal
+
+
+#### Sou voluntário no PIBITI (Programa Institucional de Bolsas de Iniciação Tecnológica e Inovação) da [UFRB](https://github.com/ufrb), com o plano de trabalho "Integração e operacionalização de projeto piloto para monitoramento de articulação central e controle de movimento do veículo robótico PIPETA" no projeto "PIPETA - PLATAFORMA INTERDISCIPLINAR DE PESQUISA DE ESTUDOS DE TRANSPORTADORES AUTÔNOMOS" do professor [Nilton Silva](https://github.com/NiltonSilva10)
+
+
+#### Participei de um programa de Iniciação Ciêntífica para Ensino Médio (PIBIC-EM) 🔬 na [UFRB](https://github.com/ufrb) intitulado "Estudo e desenvolvimento de um indicador de pontos para marcação de curva de nível para terrenos inclinados.", relacionado a área de Engenharia Eletrônica 🦾 🦿 🔋
+
+### De forma individual, realizo pesquisas na área de criptografia, como <i>Criptógrafo-Analista</i>, onde procuro as melhores combinações de encriptação para projetos mais seguros, baseando-me em testes de <i>Criptoanálise</i>.
   
 </details>
-<!---
-[![snake gif](https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake.svg)](https://github.com/ThiagoSousa81?from=2023-03-01&to=2023-03-15&year_list=1)--->
-
-<!---<div align=center><img src="https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake.svg" alt"Contribuition's Snake" width="90%"></div>--->
 
 <h2 align=center>Gráfico de Contribuíções</h2>
 
 <div align=center><img src="./profile-3d-contrib/profile-night-green.svg" alt="" width="90%"></div>
-<!---<details>
-  <summary></summary>
-</details>--->
+
 
 <h1 align="center">Conheça a <a href="https://ebs-systems.epizy.com/" target="_blank">EBS Security Systems</a></h1>
 
 |  |  |
 | :---: | :---: |
-| <div style="width: 25%"><h3>Uma startup intensivamente focada no desenvolvimento de software seguro. <br><br><a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%237700FF?&logo=github&logoColor=white" target="_blank" style="height: 30px"></a>  <a href="https://web.ebs-systems.epizy.com/" target="_blank"><img src="https://img.shields.io/badge/CADASTRO-nocolor?style=flat" style="height: 30px"/></a></h3></div> | <div style="width: 75%"><a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><p><img src="/image2.png" alt="EBS Security Systems"  width="40%" ></p></a></div> |
+| <div style="width: 25%"><h3>Uma startup intensivamente focada no desenvolvimento de software seguro. <br><br><a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%237700FF?&logo=github&logoColor=white" target="_blank" style="height: 30px"></a>  <a href="https://docs.google.com/forms/d/e/1FAIpQLSed6wOG8Isfg6q4YAOVWmlKSjtvUG8z0evKc_Lo_3RNPBwGUw/viewform?usp=sf_link" target="_blank"><img src="https://img.shields.io/badge/FAZER%20PARTE-nocolor?style=flat" style="height: 30px"/></a></h3></div> | <div style="width: 75%"><a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><p><img src="/image2.png" alt="EBS Security Systems"  width="40%" ></p></a></div> |
 
-<!---
-|  |  |
-| :---: | :---: |
-| <h3>Uma startup intensivamente focada no desenvolvimento de software seguro. <br><br><a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%237700FF?&logo=github&logoColor=white" target="_blank" style="height: 30px"></a>  <a href="https://api-ebs-web.epizy.com/" target="_blank"><img src="https://img.shields.io/badge/ENTRE PARA O PROJETO-nocolor?style=flat" style="height: 30px"/></a></h3>  | <a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><p><img src="/image.png" alt="EBS Security Systems"  width="40%" ></p></a> |--->
-
- 
  
  
 # Sobre mim...
