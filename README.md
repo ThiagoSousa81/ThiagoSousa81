@@ -67,7 +67,7 @@
 
 | Commits | Repositórios |
 | --- | --- |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiagoSousa81&theme=chartreuse_dark&&exclude={swift}&PAT_1=thiagosousa81) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagosousa81&theme=chartreuse_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiagoSousa81&theme=chartreuse_dark&exclude=swift&PAT_1=thiagosousa81) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagosousa81&theme=chartreuse_dark) |
 
 <p>Obs.: Meu Git-Hub tem essas linguagens predominantes mas como um Dev multiplataforma posso me adaptar tranquilamente a desenvolver sistemas sólidos e escalonáveis em qualquer tecnologia.</p>
 
