@@ -37,8 +37,7 @@
 
 ### De forma individual, realizo pesquisas na área de criptografia, como <i>Criptógrafo-Analista</i>, onde procuro as melhores combinações de encriptação para projetos mais seguros, baseando-me em testes de <i>Criptoanálise</i>.
 
-
-[![Game](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)[![Game](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)[![Game](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)
+[![Game](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)
   
 </details>
 
