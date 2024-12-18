@@ -147,7 +147,9 @@
 
   <h3 align=center>
 
-[🕹️Tic Tac Toe](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)
+#[🕹️Tic Tac Toe](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)
+
+![Tic-Tac-Toe](https://corsproxy.io/?url=https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)
 
 </h3>
 
