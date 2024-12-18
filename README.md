@@ -36,6 +36,9 @@
 #### Participei de um programa de Iniciação Ciêntífica para Ensino Médio (PIBIC-EM) 🔬 na [UFRB](https://github.com/ufrb) intitulado "Estudo e desenvolvimento de um indicador de pontos para marcação de curva de nível para terrenos inclinados.", relacionado a área de Engenharia Eletrônica 🦾 🦿 🔋
 
 ### De forma individual, realizo pesquisas na área de criptografia, como <i>Criptógrafo-Analista</i>, onde procuro as melhores combinações de encriptação para projetos mais seguros, baseando-me em testes de <i>Criptoanálise</i>.
+
+
+[![Game](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)[![Game](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)[![Game](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)
   
 </details>
 
@@ -163,10 +166,6 @@
   <a href="https://www.instagram.com/thiago_sousa81/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thiagosousa81@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiagosousa81/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  |   |   |   |
-|---|---|---|
-|   | <p align="center">[![Game](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)</p> |   |
   
   </p>
 
