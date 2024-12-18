@@ -164,7 +164,11 @@
   <a href = "mailto:thiagosousa81@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiagosousa81/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <p align="center">[![Game](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)</p>
+  <p align="center">
+  
+  [![Game](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)
+  
+  </p>
 
   </div>
     
