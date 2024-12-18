@@ -165,8 +165,8 @@
   <a href="https://www.linkedin.com/in/thiagosousa81/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   |   |   |   |
-  | --- | --- | --- |
-  |   | [![Game](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg) |   |
+|---|---|---|
+|   | <p align="center">[![Game](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)</p> |   |
   
   </p>
 
