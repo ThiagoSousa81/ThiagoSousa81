@@ -37,11 +37,6 @@
 
 ### De forma individual, realizo pesquisas na área de criptografia, como <i>Criptógrafo-Analista</i>, onde procuro as melhores combinações de encriptação para projetos mais seguros, baseando-me em testes de <i>Criptoanálise</i>.
 
-<h3 align=center>
-
-[![Game](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)
-
-</h3>
   
 </details>
 
@@ -149,6 +144,12 @@
   OBS.: Boa parte dos arquivos de projeto da EBS Systems são privados. Caso queira conhecer melhor do funcionamento interno entre em contato.
 
   </details>
+
+  <h3 align=center>
+
+[🕹️Tic Tac Toe](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)
+
+</h3>
 
 </details>
 
