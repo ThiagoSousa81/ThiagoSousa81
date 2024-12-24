@@ -37,6 +37,14 @@
 
 ### De forma individual, realizo pesquisas na área de criptografia, como <i>Criptógrafo-Analista</i>, onde procuro as melhores combinações de encriptação para projetos mais seguros, baseando-me em testes de <i>Criptoanálise</i>.
 
+<details><summary><h3>Para você que chegou aqui tome esse presente</h3></summary>
+
+## Uma par de chaves RSA
+
+![EBS_Key-Pair_Generator](https://ise.ebs-systems.epizy.com/generate-key-pair/)
+
+</details>
+
   
 </details>
 
