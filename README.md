@@ -41,7 +41,7 @@
 
 ## Uma par de chaves RSA
 
-![EBS_Key-Pair_Generator](https://ise.ebs-systems.epizy.com/generate-key-pair/file.svg)
+![EBS-Key-Pair-Generator](https://ise.ebs-systems.epizy.com/generate-key-pair/pair.svg)
 
 </details>
 
