@@ -1,3 +1,5 @@
+> ## ESTE READ-ME ESTÁ MUITO DESATUALIZADO!!! VEJA A [ATUALIZAÇÃO](https://github.com/ThiagoSousa81/ThiagoSousa81/tree/update#readme)
+
 <!---https://www.youtube.com/watch?v=GPGLOaDpKoI--->
 
 <!---<h1 align="center"> 👋 Olá, meu nome é Thiago Sousa 👍</h1>
@@ -328,6 +330,7 @@ Obs.: Ainda não trabalho com aplicativos para celular pois tenho muito o que ap
   <a href="https://www.linkedin.com/in/thiago-sousa-4a7a53257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </div>
     
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
