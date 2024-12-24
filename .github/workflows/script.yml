@@ -25,7 +25,9 @@ jobs:
       # Passo 3: Acessar o script PHP e gerar o arquivo
       - name: Access PHP script to generate file
         run: |
-          curl -o pair.svg "https://ise.ebs-systems.epizy.com/generate-key-pair/index.php"  # Altere para o link do seu script PHP
+          curl -o pair.svg "https://ebs-systems.epizy.com/generate-key-pair/index.php"  
+          
+        # Altere para o link do seu script PHP
     
       # Passo 4: Adicionar e fazer commit do arquivo na pasta específica
       - name: Commit and push file to GitHub
