@@ -1,0 +1,39 @@
+name: Generate and Upload File from PHP Script
+
+on:
+  schedule:
+    - cron: '0 6,12,18,0 * * *'  # Executar às 6h, 12h, 18h e 00h (meia-noite) UTC
+  push:
+    branches:
+      - main
+      - update  # Adicionando o branch 'update' como trigger também
+
+
+jobs:
+  generate-and-upload:
+    runs-on: ubuntu-latest  # Executando em um ambiente Linux
+
+    steps:
+      # Passo 1: Checkout do repositório
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Passo 2: Instalar dependências necessárias
+      - name: Install curl
+        run: sudo apt-get install curl
+
+      # Passo 3: Acessar o script PHP e gerar o arquivo
+      - name: Access PHP script to generate file
+        run: |
+          curl -o pair.svg "https://ise.ebs-systems.epizy.com/generate-key-pair/index.php"  # Altere para o link do seu script PHP
+    
+      # Passo 4: Adicionar e fazer commit do arquivo na pasta específica
+      - name: Commit and push file to GitHub
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@users.noreply.github.com"
+          git add pair.svg  # Adicionar o arquivo na pasta
+          git commit -m "Adicionando par de chaves RSA"
+          git push origin update  # Ou outro branch desejado
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
