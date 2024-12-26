@@ -1,6 +1,10 @@
 name: Snake Game
 
 on:
+  push:
+    branches:
+      - main
+      - update
   schedule:
     # Atualiza a cada 5 horas
     - cron: "0 */5 * * *"
