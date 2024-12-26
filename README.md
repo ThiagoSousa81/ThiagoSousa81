@@ -16,9 +16,9 @@
   
 </div>
 
-<details>
-
 ![snake gif](https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake.svg)
+
+<details>
   
 ### 📚 Cursando <b>Bacharelado em Ciências Exatas e Tecnológicas</b> 🧮 na UFRB, com terminalidade em Engenharia da Computação 💻
 ### 👨‍💻 Técnico em Informática 📝🔧🪛 pelo CETEP Alberto Torres 🍎
