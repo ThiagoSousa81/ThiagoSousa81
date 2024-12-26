@@ -22,7 +22,7 @@ jobs:
     - uses: Platane/snk@v2.0.0  # Use uma versão estável do Platane/snk
       id: snake-gif
       with:
-        github_user_name: thiagosousa81  # Seu nome de usuário no GitHub
+        github_user_name: ThiagoSousa81  # Seu nome de usuário no GitHub
         outputs: dist  # Diretório onde os arquivos GIF e SVG serão gerados
         
     # Verifica o status do git (para depuração)
