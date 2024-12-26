@@ -19,13 +19,12 @@ jobs:
     - uses: actions/checkout@v3  # Atualizado para a versão v3, mais estável
 
     # Gerar o gráfico do Snake Game (GIF ou SVG)
-    - uses: Platane/snk@v2.0.0  # Use uma versão estável do Platane/snk
+   - uses: Platane/snk@v2.0.0  # Use uma versão estável do Platane/snk
       id: snake-gif
       with:
         github_user_name: thiagosousa81  # Seu nome de usuário no GitHub
-        gif_out_path: dist/github-contribution-grid-snake.gif  # GIF de contribuições
-        svg_out_path: dist/github-contribution-grid-snake.svg  # SVG de contribuições
-
+        outputs: dist  # Diretório onde os arquivos GIF e SVG serão gerados
+        
     # Verifica o status do git (para depuração)
     - run: git status
 
