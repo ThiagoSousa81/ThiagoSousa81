@@ -122,6 +122,10 @@
 
  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=PowerShell-Scripts&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/PowerShell-Scripts)
+
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=kali-linux&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/kali-linux)
+
   </details>
 
 - <details> <summary><h3>Python</h3><br><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></summary>
@@ -140,6 +144,8 @@
 
 - <details> <summary><h3>JavaScript</h3><br><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java-Script" width="55" height="55"/></summary>
   
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Recode-Trainee&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/Thiagosousa81/Recode-Trainee)
+
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=JavaScript-Senac&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/Thiagosousa81/JavaScript-Senac)
   
   </details>
