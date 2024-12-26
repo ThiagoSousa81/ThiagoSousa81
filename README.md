@@ -102,65 +102,17 @@
 <details>
 <p align="center">Aconselho que veja todos os outros repositórios que já contribuí, se o que prcura for uma simples prova do meu trabalho</p>
 
-- <details> <summary><h3>C#</h3><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="55" height="55"/></summary>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=Historico&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/Historico)
- 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Curso-Csharp&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Curso-Csharp)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Star-View-Design&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Star-View-Design)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Adoradores-5&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Adoradores-5)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Coletanea-2022&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Coletanea-2022)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Coletanea-Calebe24&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Coletanea-Calebe24)
-
-  </details>
-
-- <details> <summary><h3>PowerShell</h3><br><img src="https://cdn.iconscout.com/icon/free/png-256/powershell-3628993-3030218.png" alt="powershell" width="55" height="55"/></summary>
-
- 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=PowerShell-Scripts&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/PowerShell-Scripts)
 
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=kali-linux&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/kali-linux)
+| Linguagem | Projetos |
+|-----------|----------|
+| <h3>C#</h3><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="55" height="55"/> | [![Historico](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=Historico&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/Historico)<br>[![Curso-Csharp](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Curso-Csharp&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Curso-Csharp)<br>[![Star-View-Design](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Star-View-Design&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Star-View-Design)<br>[![Adoradores-5](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Adoradores-5&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Adoradores-5)<br>[![Coletanea-2022](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Coletanea-2022&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Coletanea-2022)<br>[![Coletanea-Calebe24](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Coletanea-Calebe24&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Coletanea-Calebe24) |
+| <h3>PowerShell</h3><br><img src="https://cdn.iconscout.com/icon/free/png-256/powershell-3628993-3030218.png" alt="powershell" width="55" height="55"/> | [![PowerShell-Scripts](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=PowerShell-Scripts&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/PowerShell-Scripts)<br>[![kali-linux](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=kali-linux&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/kali-linux) |
+| <h3>Python</h3><br><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> | [![Python](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Python&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Python)<br>[![Training](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=Training&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/Training)<br>[![Read-me-Apps](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Read-me-Apps&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Read-me-Apps)<br>[![Flask_Vercel](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Flask_Vercel&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Flask_Vercel)<br>[![Django_Vercel](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Django_Vercel&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Django_Vercel) |
+| <h3>JavaScript</h3><br><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/> | [![Recode-Trainee](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Recode-Trainee&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/Thiagosousa81/Recode-Trainee)<br>[![JavaScript-Senac](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=JavaScript-Senac&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/Thiagosousa81/JavaScript-Senac) |
+| <h3>PHP</h3><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="55" height="55"/> | [![ShopDBV](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=ShopDBV&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/ShopDBV)<br>[![Auto-AGRO-CETEP](https://github-readme-stats.vercel.app/api/pin/?username=AGRO-CETEP&repo=Auto-AGRO-CETEP&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/AGRO-CETEP/Auto-AGRO-CETEP)<br>[![Website-EBS](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=Website-EBS&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/Website-EBS)<br>OBS.: Boa parte dos arquivos de projeto da EBS Systems são privados. Caso queira conhecer melhor do funcionamento interno entre em contato. |
 
-  </details>
 
-- <details> <summary><h3>Python</h3><br><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></summary>
-
- 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Python&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Python)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=Training&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/Training)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Read-me-Apps&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Read-me-Apps)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Flask_Vercel&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Flask_Vercel)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Django_Vercel&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Django_Vercel)
-  </details>
-
-- <details> <summary><h3>JavaScript</h3><br><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java-Script" width="55" height="55"/></summary>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Recode-Trainee&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/Thiagosousa81/Recode-Trainee)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=JavaScript-Senac&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/Thiagosousa81/JavaScript-Senac)
-  
-  </details>
-
-- <details> <summary> <h3>PHP</h3><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="55" height="55"/></summary>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=ShopDBV&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/ShopDBV)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AGRO-CETEP&repo=Auto-AGRO-CETEP&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/AGRO-CETEP/Auto-AGRO-CETEP)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=Website-EBS&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/Website-EBS)
-
-  OBS.: Boa parte dos arquivos de projeto da EBS Systems são privados. Caso queira conhecer melhor do funcionamento interno entre em contato.
-
-  </details>
 
   <h3 align=center>
 
