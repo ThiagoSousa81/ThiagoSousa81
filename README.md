@@ -100,7 +100,7 @@
 <h2 align="center">Portifólio</h2>
 
 <details>
-<p align="center">Aconselho que veja todos os outros repositórios que já contribuí, se o que prcura for uma simples prova do meu trabalho</p>
+<p align="center">Aqui estão alguns repositórios de destaque no meu perfil. Aconselho que veja todos os outros projetos que já contribuí, se o que prcura for uma simples prova do meu trabalho</p>
 
 
 
