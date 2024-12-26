@@ -55,9 +55,8 @@
 
 <h1 align="center">Conheça a <a href="https://ebs-systems.epizy.com/" target="_blank">EBS Security Systems</a></h1>
 
-|  |  |
-| :---: | :---: |
 | <div style="width: 25%"><h3>Uma startup intensivamente focada no desenvolvimento de software seguro. <br><br><a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%237700FF?&logo=github&logoColor=white" target="_blank" style="height: 30px"></a>  <a href="https://docs.google.com/forms/d/e/1FAIpQLSed6wOG8Isfg6q4YAOVWmlKSjtvUG8z0evKc_Lo_3RNPBwGUw/viewform?usp=sf_link" target="_blank"><img src="https://img.shields.io/badge/FAZER%20PARTE-nocolor?style=flat" style="height: 30px"/></a></h3></div> | <div style="width: 75%"><a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><p><img src="/image2.png" alt="EBS Security Systems"  width="40%" ></p></a></div> |
+| --- | --- |
 
  
  
