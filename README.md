@@ -110,6 +110,8 @@
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Star-View-Design&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Star-View-Design)
 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Adoradores-5&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Adoradores-5)
+
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Coletanea-2022&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Coletanea-2022)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Coletanea-Calebe24&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Coletanea-Calebe24)
@@ -129,7 +131,7 @@
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=Training&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/Training)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Python_Vercel&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Python_Vercel)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Read-me-Apps&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Read-me-Apps)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Flask_Vercel&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Flask_Vercel)
 
