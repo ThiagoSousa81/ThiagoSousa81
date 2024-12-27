@@ -131,14 +131,14 @@
   <a href="https://github.com/AGRO-CETEP" target="_blank"><img src="https://img.shields.io/badge/AGRO%20CETEP-gold?style=flat" style="height: 30px"/></a> -->
 </div>
 
-### Para mais informações visite meu site: https://thiagosousa81.wordpress.com/  
 > Última atualização: Janeiro/2025
 
 <div> 
- 
+
+ <a href = "https://thiagosous81.wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/Wordpress-00A000?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
   <a href="https://www.instagram.com/thiago_sousa81/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:thiagosousa81@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiagosousa81/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:thiagosousa81@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/thiagosousa81/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   
   </p>
 
