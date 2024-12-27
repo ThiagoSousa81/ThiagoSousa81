@@ -41,7 +41,7 @@
 
 <details><summary><h3>Para você que chegou aqui tome esse presente</h3></summary>
 
-## Uma par de chaves RSA
+<h2 align=center>Uma par de chaves RSA</h2>
 
 [![EBS-Key-Pair-Generator](https://read-me-tasks.vercel.app/generate-keys)](https://read-me-tasks.vercel.app/)
 
