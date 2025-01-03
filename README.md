@@ -69,11 +69,9 @@
 <img src="https://profile-counter.glitch.me/ThiagoSousa81/count.svg"></h2> 
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&count_private=true&include_all_pull-requests=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&bg_color=90,000000,005000,000000&PAT_1=Jammes_Scoott)
-<!--prs_merged_percentage,-->
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoSousa81&theme=chartreuse_dark&PAT_1=thiagosousa81)
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&count_private=true&include_all_pull-requests=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&bg_color=90,000000,005000,000000&PAT_1=Jammes_Scoott) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoSousa81&theme=chartreuse_dark&PAT_1=thiagosousa81) |
+| --- | --- |
 
 ## Linguagens predominantes 
 
