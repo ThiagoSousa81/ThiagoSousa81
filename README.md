@@ -8,6 +8,9 @@
 ########################################
 --->
 
+> | 🇧🇷 PT-BR | **[🇺🇸 EN-US](https://github.com/ThiagoSousa81/ThiagoSousa81/blob/main/README.en-us.md)** |
+> | --- | --- |
+
 <div align=center>
   
 [<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0&height=100&section=header"/>](https://capsule-render.vercel.app/)
