@@ -8,7 +8,8 @@
 ########################################
 --->
 
-> | [🇧🇷 PT-BR](https://github.com/ThiagoSousa81/) | **🇺🇸 EN-US** |
+> | **[🇧🇷 PT-BR](https://github.com/ThiagoSousa81/)** | **🇺🇸 EN-US** |
+> | --- | --- |
 
 <div align=center>
   
