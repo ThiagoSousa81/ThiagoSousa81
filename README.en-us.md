@@ -8,7 +8,7 @@
 ########################################
 --->
 
-> | [🇧🇷 PT-BR]() | **🇺🇸 EN-US** |
+> | [🇧🇷 PT-BR](https://github.com/ThiagoSousa81/) | **🇺🇸 EN-US** |
 
 <div align=center>
   
@@ -69,11 +69,15 @@
 <img src="https://profile-counter.glitch.me/ThiagoSousa81/count.svg"></h2> 
 </div>
 
+<div align=center>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&locale=en&theme=chartreuse-dark&layout=compact&count_private=true&include_all_pull-requests=true&include_all_commits=true&show=reviews,discussions_started,prs_merged_percentage,discussions_answered,prs_merged&bg_color=90,000000,005000,000000&PAT_1=Jammes_Scoott)
 <!--,-->
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoSousa81&theme=chartreuse_dark&PAT_1=thiagosousa81)
+
+</div>
 
 ## Predominant languages
 
@@ -87,7 +91,7 @@
 
 | Contributions | Average productivity |
 | --- | --- |
-| ![Github contribuinte](https://github-readme-streak-stats.herokuapp.com/?user=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&PAT_1=thiagosousa81) | ![Produtividade_media](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiagoSousa81&theme=chartreuse_dark&utcOffset=-3) |
+| ![Github contribuinte](https://github-readme-streak-stats.herokuapp.com/?user=thiagosousa81&show_icons=true&locale=en&theme=chartreuse-dark&layout=compact&PAT_1=thiagosousa81) | ![Produtividade_media](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiagoSousa81&theme=chartreuse_dark&utcOffset=-3) |
 
 ## Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=thiagosousa81&theme=matrix&row=2&column=5)
@@ -108,7 +112,7 @@
 
 | Language | Projects |
 | --- | --- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="55" height="55"/> | <details>[![Historico](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=Historico&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/Historico)<br>[![Curso-Csharp](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Curso-Csharp&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Curso-Csharp)<br>[![Star-View-Design](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Star-View-Design&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Star-View-Design)<br>[![Adoradores-5](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Adoradores-5&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Adoradores-5)<br>[![Coletanea-2022](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Coletanea-2022&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Coletanea-2022)<br>[![Coletanea-Calebe24](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Coletanea-Calebe24&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Coletanea-Calebe24)</details> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="55" height="55"/> | <details>[![EBS-LAB](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=EBS-LAB&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/EBS-LAB)<br>[![Historico](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=Historico&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/Historico)<br>[![Curso-Csharp](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Curso-Csharp&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Curso-Csharp)<br>[![Star-View-Design](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Star-View-Design&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Star-View-Design)<br>[![Adoradores-5](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Adoradores-5&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Adoradores-5)<br>[![Coletanea-2022](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Coletanea-2022&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Coletanea-2022)<br>[![Coletanea-Calebe24](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Coletanea-Calebe24&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Coletanea-Calebe24)</details> |
 | <img src="https://cdn.iconscout.com/icon/free/png-256/powershell-3628993-3030218.png" alt="powershell" width="55" height="55"/> | <details>[![PowerShell-Scripts](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=PowerShell-Scripts&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/PowerShell-Scripts)<br>[![kali-linux](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=kali-linux&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/kali-linux)</details> |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> | <details>[![Python](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Python&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Python)<br>[![Training](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=Training&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/Training)<br>[![Read-me-Apps](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Read-me-Apps&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/ThiagoSousa81/Read-me-Apps)<br></details> |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/> | <details>[![Recode-Trainee](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=Recode-Trainee&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/Thiagosousa81/Recode-Trainee)<br>[![JavaScript-Senac](https://github-readme-stats.vercel.app/api/pin/?username=thiagosousa81&repo=JavaScript-Senac&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/Thiagosousa81/JavaScript-Senac)</details> |
@@ -131,7 +135,7 @@
   <a href="https://github.com/AGRO-CETEP" target="_blank"><img src="https://img.shields.io/badge/AGRO%20CETEP-gold?style=flat" style="height: 30px"/></a> -->
 </div>
 
-> Última atualização: Janeiro/2025
+> Last update: 2025/January
 
 <div> 
 
