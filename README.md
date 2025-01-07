@@ -132,7 +132,7 @@
 <h2 align=center>Projetos que participo</h2>
 
 <div align=center>
-  <a href="https://github.com/EBS-Security-Systems" target="_blank"><img src="https://img.shields.io/badge/EBS Security Systems-nocolor?style=flat" style="height: 30px"/></a> <a href="https://embarcatech.cepedi.org.br/" target="_blank"><img src="https://img.shields.io/badge/Embarcatech-4A2BE1?style=flat" style="height: 30px"/></a> <a href="https://github.com/Recodejr" target="_blank"><img src="https://img.shields.io/badge/Recode Jr-blue?style=flat" style="height: 30px"/></a>  <a href="https://github.com/NiltonSilva10/" target="_blank"><img src="https://img.shields.io/badge/PIBITI UFRB-white?style=flat" style="height: 30px"/></a> 
+  <a href="https://github.com/EBS-Security-Systems" target="_blank"><img src="https://img.shields.io/badge/EBS Security Systems-nocolor?style=flat" style="height: 30px"/></a> <a href="https://embarcatech.cepedi.org.br/" target="_blank"><img src="https://img.shields.io/badge/Embarcatech-4A2BE1?style=flat" style="height: 30px"/></a> <a href="https://github.com/Recodejr" target="_blank"><img src="https://img.shields.io/badge/Recode Jr-blue?style=flat" style="height: 30px"/></a> <a href="https://github.com/NiltonSilva10/" target="_blank"><img src="https://img.shields.io/badge/PIBITI UFRB-white?style=flat" style="height: 30px"/></a> 
   <!-- Esse ficou ofuscado pela quantidade de projetos ativos no momento
   <a href="https://github.com/AGRO-CETEP" target="_blank"><img src="https://img.shields.io/badge/AGRO%20CETEP-gold?style=flat" style="height: 30px"/></a> -->
 </div>
