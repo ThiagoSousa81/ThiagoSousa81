@@ -93,7 +93,7 @@
 
 | Contribuíções | Produtividade média |
 | --- | --- |
-| ![Github contribuinte](https://github-readme-streak-stats.herokuapp.com/?user=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&PAT_1=thiagosousa81) | ![Produtividade_media](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiagoSousa81&theme=chartreuse_dark&utcOffset=-3) |
+| ![Github contribuinte](https://github-readme-streak-stats-8equ.vercel.app?user=ThiagoSousa81&theme=chartreuse-dark&locale=pt_BR) | ![Produtividade_media](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiagoSousa81&theme=chartreuse_dark&utcOffset=-3) |
 
 ## Troféus
 ![trophy](https://github-profile-trophy.vercel.app/?username=thiagosousa81&theme=matrix&row=2&column=5)
