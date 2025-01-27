@@ -96,7 +96,7 @@
 
 ## Trophies
 
-<!--![trophy](https://github-profile-trophy.vercel.app/?username=thiagosousa81&theme=matrix&row=2&column=5)-->
+![trophy](https://github-profile-trophy.vercel.app/?username=thiagosousa81&theme=matrix&row=2&column=5)
 
 ![Trophys](https://github-trophies.vercel.app/?username=thiagosousa81&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
