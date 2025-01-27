@@ -95,7 +95,10 @@
 | ![Github contribuinte](https://github-readme-streak-stats-8equ.vercel.app?user=ThiagoSousa81&theme=chartreuse-dark) | ![Produtividade_media](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiagoSousa81&theme=chartreuse_dark&utcOffset=-3) |
 
 ## Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=thiagosousa81&theme=matrix&row=2&column=5)
+
+<!--![trophy](https://github-profile-trophy.vercel.app/?username=thiagosousa81&theme=matrix&row=2&column=5)-->
+
+![Trophys](https://github-trophies.vercel.app/?username=thiagosousa81&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 
 <!---(ryo-ma/github-profile-trophy)--->
