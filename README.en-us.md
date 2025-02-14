@@ -8,9 +8,6 @@
 ########################################
 --->
 
-> | **[🇧🇷 PT-BR](https://github.com/ThiagoSousa81/)** | **🇺🇸 EN-US** |
-> | --- | --- |
-
 <div align=center>
   
 [<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0&height=100&section=header"/>](https://capsule-render.vercel.app/)
@@ -20,6 +17,9 @@
 </div>
 
 ![snake gif](https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake-dark.svg)
+
+> | **[🇧🇷 PT-BR](https://github.com/ThiagoSousa81/)** | **🇺🇸 EN-US** |
+> | --- | --- |
 
 <details>
   
