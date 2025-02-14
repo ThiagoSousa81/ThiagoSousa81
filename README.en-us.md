@@ -18,8 +18,8 @@
 
 ![snake gif](https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake-dark.svg)
 
-> | **[🇧🇷 PT-BR](https://github.com/ThiagoSousa81/)** | **🇺🇸 EN-US** |
-> | --- | --- |
+> | Language | **[🇧🇷 PT-BR](https://github.com/ThiagoSousa81/)** | **🇺🇸 EN-US** |
+> | --- | --- | --- |
 
 <details>
   
